@@ -1,0 +1,413 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x226870" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x226870" />
+  <item nodeId="node-0x226870">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+madison_ruby
+An Interactive Fiction by Chris Wilson
+Release 1 / Serial number 120802 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+
+Capitol Square West
+You are standing on the Capitol Square in Madison. It is a sunny August morning. Madison Ruby is about to begin.
+
+Ahead, to the west, is the bustling pedestrian mall of State Street. Towering behind you is the white-domed Capitol Building.
+
+There is a helpful walking map.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="43">NO</temporary>
+    <children>
+      <child nodeId="node-0x226cc0" />
+      <child nodeId="node-0xb029a30" />
+      <child nodeId="node-0xb0493a0" />
+      <child nodeId="node-0xb049540" />
+      <child nodeId="node-0xb049150" />
+      <child nodeId="node-0xb049250" />
+      <child nodeId="node-0x226d10" />
+      <child nodeId="node-0xb029bd0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb029bd0">
+    <command xml:space="preserve">look Capitol Building</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="10">YES</temporary>
+  </item>
+  <item nodeId="node-0x226d10">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+State Street Entrance
+You are standing on the first block of State Street. The commotion of people beginning their day surrounds you.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="43">YES</temporary>
+    <children>
+      <child nodeId="node-0x226d60" />
+    </children>
+  </item>
+  <item nodeId="node-0x226d60">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="43">YES</temporary>
+    <children>
+      <child nodeId="node-0xb048fe0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb048fe0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">State Street Entrance
+You are standing on the first block of State Street. The commotion of people beginning their day surrounds you.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="43">YES</temporary>
+    <children>
+      <child nodeId="node-0xb049050" />
+    </children>
+  </item>
+  <item nodeId="node-0xb049050">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">State Street Entrance
+You are standing on the first block of State Street. The commotion of people beginning their day surrounds you.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="43">YES</temporary>
+    <children>
+      <child nodeId="node-0xb0490c0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb0490c0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="43">YES</temporary>
+    <children>
+      <child nodeId="node-0xb0491b0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb0491b0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Capitol Square West
+You are standing on the Capitol Square in Madison. It is a sunny August morning. Madison Ruby is about to begin.
+
+Ahead, to the west, is the bustling pedestrian mall of State Street. Towering behind you is the white-domed Capitol Building.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="43">YES</temporary>
+    <children>
+      <child nodeId="node-0xb049200" />
+    </children>
+  </item>
+  <item nodeId="node-0xb049200">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Capitol Square West
+You are standing on the Capitol Square in Madison. It is a sunny August morning. Madison Ruby is about to begin.
+
+Ahead, to the west, is the bustling pedestrian mall of State Street. Towering behind you is the white-domed Capitol Building.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+  </item>
+  <item nodeId="node-0xb049250">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Capitol Square West
+You are standing on the Capitol Square in Madison. It is a sunny August morning. Ahead, to the west, is the bustling pedestrian mall of State Street. Towering behind you is the white-domed Capitol Building.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0xb049460" />
+      <child nodeId="node-0xb049330" />
+      <child nodeId="node-0xb0492c0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb0492c0">
+    <command xml:space="preserve">take map</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="34">YES</temporary>
+  </item>
+  <item nodeId="node-0xb049330">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+&apos;Capitol Building&apos;
+Towering behind you is the white-domed Capitol Building.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="22">YES</temporary>
+  </item>
+  <item nodeId="node-0xb049460">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+&apos;State Street Entrance&apos;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="13">YES</temporary>
+  </item>
+  <item nodeId="node-0xb049150">
+    <command xml:space="preserve">look cap</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="10">YES</temporary>
+    <children>
+      <child nodeId="node-0xb0494d0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb0494d0">
+    <command xml:space="preserve">look capitol building</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="9">YES</temporary>
+  </item>
+  <item nodeId="node-0xb049540">
+    <command xml:space="preserve">go building</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="28">YES</temporary>
+    <children>
+      <child nodeId="node-0xb0495b0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb0495b0">
+    <command xml:space="preserve">lo</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="28">YES</temporary>
+    <children>
+      <child nodeId="node-0xb049620" />
+    </children>
+  </item>
+  <item nodeId="node-0xb049620">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Capitol Square
+You are standing on the Capitol Square in Madison. It is a sunny August morning. Ahead, to the west, is the bustling pedestrian mall of State Street. Towering behind you is the white-domed Capitol Building.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="28">YES</temporary>
+    <children>
+      <child nodeId="node-0xb049690" />
+    </children>
+  </item>
+  <item nodeId="node-0xb049690">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+&apos;Capitol Building&apos;
+The Capitol Building looms above you. The doors are locked.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="28">YES</temporary>
+    <children>
+      <child nodeId="node-0xb049700" />
+    </children>
+  </item>
+  <item nodeId="node-0xb049700">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Capitol Square
+You are standing on the Capitol Square in Madison. It is a sunny August morning. Ahead, to the west, is the bustling pedestrian mall of State Street. Towering behind you is the white-domed Capitol Building.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="27">YES</temporary>
+  </item>
+  <item nodeId="node-0xb0493a0">
+    <command xml:space="preserve">take the Capitol</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="20">YES</temporary>
+    <children>
+      <child nodeId="node-0xb0493f0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb0493f0">
+    <command xml:space="preserve">take the Capitol Building</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="20">YES</temporary>
+    <children>
+      <child nodeId="node-0xb0498f0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb0498f0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Capitol Square
+You are standing on the Capitol Square in Madison. It is a sunny August morning. Ahead, to the west, is the bustling pedestrian mall of State Street.
+
+Towering behind you is the white-domed Capitol Building.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="20">YES</temporary>
+    <children>
+      <child nodeId="node-0xb049960" />
+    </children>
+  </item>
+  <item nodeId="node-0xb049960">
+    <command xml:space="preserve">go west</command>
+    <result xml:space="preserve">
+&apos;State Street Entrance&apos;
+You are standing on the first block of State Street. The commotion of people beginning their day surrounds you.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="20">YES</temporary>
+    <children>
+      <child nodeId="node-0xb0499d0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb0499d0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Capitol Square
+You are standing on the Capitol Square in Madison. It is a sunny August morning. Ahead, to the west, is the bustling pedestrian mall of State Street.
+
+Towering behind you is the white-domed Capitol Building.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="20">YES</temporary>
+    <children>
+      <child nodeId="node-0xb0299e0" />
+    </children>
+  </item>
+  <item nodeId="node-0xb0299e0">
+    <command xml:space="preserve">take building</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="19">YES</temporary>
+  </item>
+  <item nodeId="node-0xb029a30">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Capitol Square West
+You are standing on the Capitol Square in Madison. It is a sunny August morning. Ahead, to the west, is the bustling pedestrian mall of State Street. Towering behind you is the white-domed Capitol Building.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="33">YES</temporary>
+    <children>
+      <child nodeId="node-0xb029af0" />
+      <child nodeId="node-0xb029a80" />
+    </children>
+  </item>
+  <item nodeId="node-0xb029a80">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Capitol Square
+You are standing on the Capitol Square in Madison. It is a sunny August morning.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="6">YES</temporary>
+  </item>
+  <item nodeId="node-0xb029af0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+&apos;State Street Entrance&apos;
+You are standing on the first block of State Street. The commotion of people beginning their day surrounds you.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="33">YES</temporary>
+    <children>
+      <child nodeId="node-0xb029b60" />
+    </children>
+  </item>
+  <item nodeId="node-0xb029b60">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">&apos;State Street Entrance&apos;
+You are standing on the first block of State Street. The commotion of people beginning their day surrounds you.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="32">YES</temporary>
+  </item>
+  <item nodeId="node-0x226cc0">
+    <command xml:space="preserve">test me</command>
+    <result xml:space="preserve">(Testing.)
+
+&gt;[1] west
+
+&apos;State Street Entrance&apos;
+You are standing on the first block of State Street. The commotion of people beginning their day surrounds you.
+
+&gt;[2] east
+
+Capitol Square West
+You are standing on the Capitol Square in Madison. It is a sunny August morning. Madison Ruby is about to begin.
+
+Ahead, to the west, is the bustling pedestrian mall of State Street. Towering behind you is the white-domed Capitol Building.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+  </item>
+</Skein>
