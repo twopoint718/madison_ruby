@@ -2,3 +2,22 @@ MadisonRuby
 ===========
 
 A MadisonRuby-themed text adventure game, ahem *interactive fiction*.
+
+You can experience the *adventure* of Madison before you hit the
+[Madison Ruby](http://madisonruby.org/) conference.
+
+Playing
+-------
+
+If you want to play the thing go get:
+  * [Zoom](http://www.logicalshift.co.uk/unix/zoom/) for Unix or Mac
+  * [One of these](http://www.inform-fiction.org/zmachine/windows.html)
+    for Windows
+  * [iPhoneFrotz](http://code.google.com/p/iphonefrotz/wiki/FrotzMain) for iPhone
+
+Hacking
+-------
+
+The really interesting file is </twopoint718/madison_ruby/blob/master/madison_ruby.inform/Source/story.ni>
+
+Which is the [Inform 7](http://inform7.com/) source code.
